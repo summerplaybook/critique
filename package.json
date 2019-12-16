@@ -1,0 +1,11 @@
+{
+  "name": "treehouse",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/summerplaybook/treehouse-backend.git",
+  "author": "Luke Heine <heine@college.harvard.edu>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
