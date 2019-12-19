@@ -1,0 +1,19 @@
+# Mac custom attributes file (Desktop Service Store)
+.DS_Store
+
+# PyCharm files
+.idea/
+
+# secrets and configuration
+.secrets.js
+server.cert
+server.key
+
+# node and yarn
+/node_modules/
+npm-debug.*
+yarn-error.log
+package-lock.json
+
+# build folder
+dist
