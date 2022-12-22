@@ -14,7 +14,7 @@
     "bcrypt": "^3.0.6",
     "expo-server-sdk": "^3.3.0",
     "express": "^4.17.1",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "libphonenumber-js": "^1.7.23",
     "pg": "^7.12.1",
     "twilio": "^3.33.4",
